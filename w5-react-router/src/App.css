@@ -6,21 +6,21 @@ body {
 }
 
 nav {
-    background-color: #f2f2f2;
+    background-color: #696868;
     padding: 15px 20px;
     text-align: center;
 }
 
 nav a {
     text-decoration: none;
-    color: blue;
+    color: rgb(255, 255, 255);
     margin: 0 15px;
     font-weight: bold;
-    transition: color 0.3s ease;
+    transition: color 0.4s ease;
 }
 
 nav a:hover {
-    color: red;
+    color: rgb(160, 8, 8);
 }
 
 
