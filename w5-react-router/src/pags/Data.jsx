@@ -5,10 +5,10 @@ function Data() {
         <div>
             <h1>ตัวละครหลัก</h1>
             <h2>-กลุ่มนักเดินทางอีวาน-</h2>
-            <img src="public/Evan-4.png" alt="Evan" />
-            <img src="public/Evan-6.png" alt="Evan" />
-            <img src="public/Karin-4.png" alt="Karin" />
-            <img src="public/Karin-6.png" alt="Karin" />
+            <img src="src/asset/Evan-4.png" alt="Evan" />
+            <img src="src/asset/Evan-6.png" alt="Evan" />
+            <img src="src/asset/Karin-4.png" alt="Karin" />
+            <img src="src/asset/Karin-6.png" alt="Karin" />
             <h2>หัวหน้าของกลุ่ม อีวาน & ฮีลเลอร์ประจำทีม คาลิน</h2>
             <p>อีวานเป็นนักเดินทางที่มีความมุ่งมั่นในการค้นหาความจริงเกี่ยวกับโลกและการผจญภัยของเขา</p>
             <p>คาลินเป็นฮีลเลอร์ที่มีความสามารถในการรักษาและสนับสนุนทีม</p>
