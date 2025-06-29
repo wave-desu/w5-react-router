@@ -9,7 +9,7 @@ function About() {
                 G : wave3609@gmail.com
                 (คนสร้างเว็บ)
                 <br/>
-                <img src="Git/w5-react-router/w5-react-router/src/assets/wave-desuโปรไลฟ์.png" alt="wave-desu" />
+                <img src="public/Wave-desu.png" alt="wave-desu" />
             </h1>
         </div>
     )
